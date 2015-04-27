@@ -1,6 +1,5 @@
 # Welcome To Use Domob Android Ad SDK Unity3d Sample!
-===========================
-## note
+## 注意
 
 DomobUnity3dSample为Unity3d工程，DomobUnity3dSampleOfEclipse为Eclipse的Android工程。
 
